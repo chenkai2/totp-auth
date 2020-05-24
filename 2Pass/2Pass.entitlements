@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.totp.app</string>
+		<string>group.io.orochi.totp</string>
 	</array>
 </dict>
 </plist>
